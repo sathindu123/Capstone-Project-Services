@@ -1,0 +1,9 @@
+[submodule "enrollment-service"]
+	path = enrollment-service
+	url = https://github.com/sathindu123/Capstone-Project-Service-Enrollment.git
+[submodule "program-service"]
+	path = program-service
+	url = https://github.com/sathindu123/Capstone-Project-Service-Program.git
+[submodule "student-service"]
+	path = student-service
+	url = https://github.com/sathindu123/Capstone-Project-Service-Student.git
